@@ -99,7 +99,7 @@ function Home({ data }) {
             Inside<br/><span className="text-slate-300">The Campus 🎓</span>
           </h2>
         </div>
-        <p className="max-w-xs text-slate-400 font-medium text-sm leading-relaxed">สำรวจข่าวสาร กิจกรรม และประกาศสำคัญจากวิทยาลัย S.TECH 📡</p>
+        <p className="max-w-xs text-slate-400 font-medium text-sm leading-relaxed">สำรวจข่าวสาร กิจกรรม และประกาศสำคัญจากวิทยาลัยเทคโนโลยีภาคใต้ S.TECH  📡</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-6 lg:grid-cols-12 gap-6">
